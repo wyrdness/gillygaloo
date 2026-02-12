@@ -1,0 +1,148 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/gillygaloo",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "gillygaloo",
+    "name": "Gillygaloo",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Fearsome Critter",
+    "tags": [
+      "fearsome-critter",
+      "lumberjack-folklore",
+      "bird",
+      "northern-forests",
+      "humorous",
+      "tall-tale"
+    ],
+    "status": "folklore",
+    "description": {
+      "summary": "A mythical bird that lays perfectly square or cubic eggs, nesting exclusively on steep hillsides where the geometric eggs won't roll away.",
+      "full": "The Gillygaloo is a fearsome critter from American lumberjack folklore of the northern forests. This peculiar bird has evolved to lay square or cubic eggs rather than round ones, solving the problem of eggs rolling away from nests on steep mountain slopes. According to the tall tales, the Gillygaloo nests only on the steepest hillsides, where round eggs would be impossible to keep in place. The square eggs can be hard-boiled and used as dice, or so the lumberjacks claimed. This absurd adaptation represents classic occupational humor designed to test the credulity of greenhorn workers."
+    },
+    "etymology": {
+      "origin": "American lumberjack folklore, early 20th century",
+      "meaning": "Unknown; likely nonsense word typical of fearsome critter names",
+      "first_use": "circa 1910"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Fearsome Critter",
+      "subtype": "Avian",
+      "variant": "Northern Forests"
+    },
+    "related_phenomena": []
+  },
+
+  "characteristics": {
+    "physical": {
+      "size": "Bird-sized, details vary",
+      "coloration": ["various, often described as typical forest bird colors"],
+      "features": [
+        {
+          "feature": "Square eggs",
+          "description": "Lays perfectly cubic or square eggs",
+          "frequency": "always"
+        },
+        {
+          "feature": "Mountain adaptation",
+          "description": "Evolved for steep hillside nesting",
+          "frequency": "always"
+        }
+      ],
+      "morphology": "Generally described as resembling common forest birds, unremarkable except for egg-laying ability"
+    },
+    "abilities": [
+      {
+        "ability": "Geometric egg production",
+        "description": "Lays square or cubic eggs instead of round",
+        "frequency": "always",
+        "evidence_level": "folklore"
+      },
+      {
+        "ability": "Slope navigation",
+        "description": "Navigates steep mountain terrain for nesting",
+        "frequency": "common",
+        "evidence_level": "folklore"
+      }
+    ],
+    "behavior": {
+      "activity_period": "diurnal",
+      "disposition": "neutral",
+      "social_structure": "solitary or paired",
+      "habitat_preference": ["steep hillsides", "mountains", "northern forests"],
+      "diet": "Typical bird diet (varies by account)",
+      "patterns": [
+        "Nests only on steep slopes",
+        "Lays square eggs to prevent rolling",
+        "Otherwise unremarkable bird behavior"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Northern forests and mountain regions where lumberjacks worked",
+      "continents": ["North America"],
+      "countries": ["United States", "Canada"],
+      "regions": ["Northern forests", "Mountain regions", "Lumber territories"]
+    },
+    "temporal": {
+      "first_recorded": {
+        "date": "1910",
+        "circa": true,
+        "source": "Lumberjack tall tale collections"
+      }
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "American occupational folklore from lumber camps",
+      "folklore_connections": "Part of fearsome critters tradition; represents absurdist problem-solving humor"
+    }
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": ["Lumberjack tall tales"],
+      "beliefs": "Square eggs supposedly useful as dice after hard-boiling; never intended to be believed literally"
+    },
+    "popular_culture": {
+      "literature": [
+        "Fearsome Creatures of the Lumberwoods by William T. Cox (1910)"
+      ]
+    }
+  },
+
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": ["William T. Cox"],
+      "date": "1910"
+    }
+  ]
+}
